@@ -1,3 +1,4 @@
+#This is a fibonnaci algo in python
 def fibo(number):
     if number < 1:
         raise Exception
